@@ -1,8 +1,8 @@
 ### Hi there I am Anamika Srivastava👋
 
-- 🔭 I’m currently working on Android development and Python
-- 🌱 I’m currently learning competitive programming
-- 🎓 pursuing B.Tech(Computer Science) at SRMGPC, Lucknow.
+- 🔭 I’m currently working on Backend Development(Spring boot , Hibernate ,JPA ..)
+- 🌱 I’m currently working at SAP LABS India as a Scholar
+- 🎓 pursuing M.Tech from Bits Pilani 
 - 📫 Reach me at: 
        -[instagram:_anamika_](https://www.instagram.com/oceanwithdrops/)
        -[Facebook:_anasri_](https://www.facebook.com/profile.php?id=100049327509008)
